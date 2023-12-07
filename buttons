@@ -1,0 +1,12 @@
+the "i" Values
+
+
+X = 0
+O = 1
+TRA = 3
+SQ = 2
+
+up = 11
+down = 12
+left = 13
+right = 14
